@@ -1,0 +1,34 @@
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.pdb
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.AssemblyReference.cache
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CoreCompileInputs.cache
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.exe
+C:\Users\Alpha Tech\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\BusinessModels.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\BusinessServices.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Common.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\DataAccessLayer.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\BusinessModels.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\BusinessServices.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Common.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\DataAccessLayer.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.AssemblyReference.cache
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CoreCompileInputs.cache
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CopyComplete
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.exe
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\System.Threading.Tasks.Extensions.xml

@@ -1,0 +1,6 @@
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\BusinessModels\bin\Debug\BusinessModels.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\BusinessModels\bin\Debug\BusinessModels.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\BusinessModels\obj\Debug\BusinessModels.csproj.AssemblyReference.cache
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\BusinessModels\obj\Debug\BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\BusinessModels\obj\Debug\BusinessModels.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\BusinessModels\obj\Debug\BusinessModels.pdb

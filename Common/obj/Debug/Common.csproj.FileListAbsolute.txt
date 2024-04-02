@@ -1,0 +1,6 @@
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\Common\bin\Debug\Common.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\Common\bin\Debug\Common.pdb
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\Common\obj\Debug\Common.dll
+C:\Users\wasik\Downloads\EmailSenderProgram\EmailSenderProgram\Common\obj\Debug\Common.pdb
